@@ -90,7 +90,6 @@ Watch here: https://youtu.be/Fj2i9q1u9XY
 
 
 ## Project Structure
-
 ```
 OWASP-ZAP-Active-Scan-Demo/
 ├── zap_report.html
@@ -132,7 +131,10 @@ See `zap_report.html` in this repository.
 
 ## Video 
 
-Watch here: [https://youtu.be/Fj2i9q1u9XY]
+  ```markdown
+## Video 
+Watch here: https://youtu.be/Fj2i9q1u9XY
+```
 
 
 
