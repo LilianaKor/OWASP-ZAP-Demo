@@ -1,10 +1,10 @@
 # OWASP-ZAP-Demo
-This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. The goal is to create a clear, recruiter-friendly GitHub project showcasing your basic cybersecurity skills.
+This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. The goal is to create a clear, friendly project showcasing my basic cybersecurity skills.
 # OWASP ZAP Demo: Legal Website Scanning for GitHub Portfolio
 
 ## Project Goal
 
-This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. The goal is to create a clear, recruiter-friendly GitHub project showcasing your basic cybersecurity skills.
+This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. 
 
 ## Legal Target Website for Scanning
 
@@ -25,12 +25,11 @@ You can only scan websites that explicitly allow security testing.
 * OWASP ZAP for macOS
 * Google Chrome or Firefox
 * FoxyProxy (optional)
-* OBS Studio or Loom (for video recording)
 * GitHub
 
 ---
 
-## Step-by-Step: Create a ZAP Scanning Demo
+## Step-by-Step:  ZAP Scanning Demo
 
 ### 1. Install OWASP ZAP
 
@@ -50,7 +49,7 @@ You can only scan websites that explicitly allow security testing.
 * Set HTTP proxy to:
 
   * Host: 127.0.0.1
-  * Port: 9090 (or match the port in ZAP: Tools → Options → Local Proxies)
+  * Port: 9090 or 8080 (or match the port in ZAP: Tools → Options → Local Proxies)
 
 Tip: Use the FoxyProxy extension for easy proxy switching.
 
@@ -116,7 +115,7 @@ http://testphp.vulnweb.com (provided by Acunetix)
 ## Tools Used
 - OWASP ZAP (macOS)
 - Chrome + Proxy
-- GitHub
+
 
 ## Steps Performed
 1. Launched ZAP
@@ -133,7 +132,7 @@ See `zap_report.html` in this repository.
 
 ## Video 
 
-Watch here: https://youtu.be/Fj2i9q1u9XY
+Watch here: [https://youtu.be/Fj2i9q1u9XY]
 
 
 
