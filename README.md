@@ -86,11 +86,9 @@ Test fields with the input: `"><script>alert(1)</script>`
 Watch here: https://youtu.be/Fj2i9q1u9XY
 ```
 
----
 
 
-## Project Structure
-```
+## Project Structure  ```
 OWASP-ZAP-Active-Scan-Demo/
 ├── zap_report.html
 ├── README.md
@@ -130,11 +128,8 @@ This scan was performed only on a legally authorized, intentionally vulnerable t
 See `zap_report.html` in this repository.
 
 ## Video 
-
-  ```markdown
-## Video 
 Watch here: https://youtu.be/Fj2i9q1u9XY
-```
+
 
 
 
