@@ -96,7 +96,7 @@ OWASP-ZAP-Active-Scan-Demo/
 
 ---
 
-## Sample README.md (GitHub)
+## Sample README.md 
 
 ```markdown
 # OWASP ZAP Active Scan – Legal Demo Project
@@ -129,44 +129,6 @@ See `zap_report.html` in this repository.
 See `demo_video.mp4` (coming soon)
 ```
 
----
-
-## How to Upload This Project to GitHub
-
-### Step 1: Create a New Repository
-
-1. Go to [https://github.com](https://github.com)
-2. Click the **+** icon (top-right) → **New repository**
-3. Name it: `OWASP-ZAP-Demo`
-4. Set it to **Public**
-5. Click **Create repository**
-
-### Step 2: Push Your Files
-
-If you already have the files locally:
-
-```bash
-cd path/to/your/project-folder
-
-git init
-git remote add origin https://github.com/YOUR_USERNAME/OWASP-ZAP-Demo.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
-```
-
-### Step 3: Add Your Video
-
-**Option A: Upload directly to GitHub (if under 100MB)**
-
-* Rename your video to `demo_video.mp4`
-* Add it to the folder and run:
-
-```bash
-git add demo_video.mp4
-git commit -m "Add demo video"
-git push
-```
 
 **Option B: Upload to YouTube or Loom (recommended)**
 
@@ -177,7 +139,3 @@ git push
 ## Video Walkthrough
 Watch here: https://your-video-link.com
 ```
-
----
-
-Let me know when you're ready to embed the video or want to polish your README. I'm happy to help!
