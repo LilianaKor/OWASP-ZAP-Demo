@@ -137,5 +137,5 @@ See `demo_video.mp4` (coming soon)
 
 ```markdown
 ## Video Walkthrough
-Watch here: [https://your-video-link.com](https://youtu.be/Fj2i9q1u9XY)
+Watch here: [https://youtu.be/Fj2i9q1u9XY]
 ```
