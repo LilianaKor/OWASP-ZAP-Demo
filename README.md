@@ -87,12 +87,13 @@ Watch here: https://youtu.be/Fj2i9q1u9XY
 
 ## Project Structure
 
+
 OWASP-ZAP-Active-Scan-Demo/
 ├── zap_report.html
 ├── README.md
 ├── demo_video.mp4 (optional)
 └── scan_screenshot.png (optional)
-```
+
 
 ## Sample README.md 
 
