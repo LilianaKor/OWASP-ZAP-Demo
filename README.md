@@ -83,11 +83,12 @@ Test fields with the input: `"><script>alert(1)</script>`
 * Use only in controlled environments like this test site
 
   ```markdown
-## Video Walkthrough
+## Video 
 Watch here: https://youtu.be/Fj2i9q1u9XY
 ```
 
 ---
+
 
 ## Project Structure
 
@@ -130,17 +131,9 @@ This scan was performed only on a legally authorized, intentionally vulnerable t
 ## Report
 See `zap_report.html` in this repository.
 
-## Video Walkthrough
-See `demo_video.mp4` (coming soon)
-```
+## Video 
 
-
-**Option B: Upload to YouTube or Loom (recommended)**
-
-* Upload the video
-* Add the video link to the `README.md` like this:
-
-```markdown
-## Video Walkthrough
 Watch here: https://youtu.be/Fj2i9q1u9XY
-```
+
+
+
