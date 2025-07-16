@@ -82,6 +82,11 @@ Test fields with the input: `"><script>alert(1)</script>`
 * This is a classic XSS test string used to simulate JavaScript injection
 * Use only in controlled environments like this test site
 
+  ```markdown
+## Video Walkthrough
+Watch here: https://youtu.be/Fj2i9q1u9XY
+```
+
 ---
 
 ## Project Structure
@@ -137,5 +142,5 @@ See `demo_video.mp4` (coming soon)
 
 ```markdown
 ## Video Walkthrough
-Watch here: [https://youtu.be/Fj2i9q1u9XY]
+Watch here: https://youtu.be/Fj2i9q1u9XY
 ```
