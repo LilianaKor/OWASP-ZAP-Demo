@@ -4,7 +4,14 @@ This project demonstrates how to safely and legally scan a website using OWASP Z
 
 ## Project Goal
 
-This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. 
+This project demonstrates how to safely and legally scan a website using OWASP ZAP on macOS for educational purposes. The goal is to create a clear project showcasing my basic cybersecurity skills. It simulates a realistic penetration testing workflow using a proxy-based scanner, giving me hands-on experience with:
+Configuring proxy settings in browsers
+Monitoring and intercepting HTTP traffic
+Performing active vulnerability scans
+Reviewing findings such as XSS and SQLi
+Generating detailed HTML security reports
+This project is ideal for demonstrating an understanding of web application security tools, ethical boundaries, and common security flaws to potential employers.
+
 
 ## Legal Target Website for Scanning
 
