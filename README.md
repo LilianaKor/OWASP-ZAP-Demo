@@ -92,7 +92,7 @@ Test fields with the input: `"><script>alert(1)</script>`
 
 
 ### Video 
-[![Watch the video](https://img.youtube.com/vi/Fj2i9q1u9XY/maxresdefault.jpg)](https://youtu.be/Fj2i9q1u9XY)
+[![Watch the video](https://img.youtube.com/vi/Fj2i9q1u9XY/hqdefault.jpg)](https://youtu.be/Fj2i9q1u9XY)
 
 
 ### Watch here: https://youtu.be/Fj2i9q1u9XY
