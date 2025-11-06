@@ -11,8 +11,6 @@ Performing active vulnerability scans
 Reviewing findings such as XSS and SQLi
 Generating detailed HTML security reports
 This project is ideal for demonstrating an understanding of web application security tools, ethical boundaries, and common security flaws to potential employers.
-[![Click to watch the OWASP ZAP Active Scan Demo](scan_screenshot.png)](https://youtu.be/Fj2i9q1u9XY)
-
 
 ## Legal Target Website for Scanning
 
@@ -136,7 +134,13 @@ This scan was performed only on a legally authorized, intentionally vulnerable t
 ## Report
 See `zap_report.html` in this repository.
 
-## Video 
+## Video
+### 🎬 Demo Video
+
+Click the image below to watch the full walkthrough of the OWASP ZAP Active Scan in action:
+
+[![Watch the video](https://img.youtube.com/vi/Fj2i9q1u9XY/maxresdefault.jpg)](https://youtu.be/Fj2i9q1u9XY)
+
 Watch here: https://youtu.be/Fj2i9q1u9XY
 
 
