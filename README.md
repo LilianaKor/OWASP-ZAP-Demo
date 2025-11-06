@@ -139,8 +139,7 @@ See `zap_report.html` in this repository.
 
 Click the image below to watch the full walkthrough of the OWASP ZAP Active Scan in action:
 
-Watch here: [https://youtu.be/Fj2i9q1u9XY](https://img.youtube.com/vi/Fj2i9q1u9XY/hqdefault.jpg
-)
+Watch here: [![OWASP ZAP Active Scan Demo](scan_screenshot.png)](https://youtu.be/Fj2i9q1u9XY)
 
 
 
