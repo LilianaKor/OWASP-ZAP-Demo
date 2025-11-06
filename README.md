@@ -12,6 +12,9 @@ Reviewing findings such as XSS and SQLi
 Generating detailed HTML security reports
 This project is ideal for demonstrating an understanding of web application security tools, ethical boundaries, and common security flaws to potential employers.
 
+[![Watch the video](https://img.youtube.com/vi/Fj2i9q1u9XY/hqdefault.jpg)](https://youtu.be/Fj2i9q1u9XY)
+
+
 ## Legal Target Website for Scanning
 
 You can only scan websites that explicitly allow security testing.
