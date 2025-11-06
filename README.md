@@ -12,6 +12,8 @@ Reviewing findings such as XSS and SQLi
 Generating detailed HTML security reports
 This project is ideal for demonstrating an understanding of web application security tools, ethical boundaries, and common security flaws to potential employers.
 
+[![OWASP ZAP Active Scan Demo](scan_screenshot.png)](https://youtu.be/Fj2i9q1u9XY)
+
 
 ## Legal Target Website for Scanning
 
