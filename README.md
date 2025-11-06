@@ -134,14 +134,13 @@ This scan was performed only on a legally authorized, intentionally vulnerable t
 ## Report
 See `zap_report.html` in this repository.
 
-## Video
+
 ### 🎬 Demo Video
 
 Click the image below to watch the full walkthrough of the OWASP ZAP Active Scan in action:
 
-[![Watch the video](https://img.youtube.com/vi/Fj2i9q1u9XY/maxresdefault.jpg)](https://youtu.be/Fj2i9q1u9XY)
-
-Watch here: https://youtu.be/Fj2i9q1u9XY
+Watch here: [https://youtu.be/Fj2i9q1u9XY](https://img.youtube.com/vi/Fj2i9q1u9XY/hqdefault.jpg
+)
 
 
 
